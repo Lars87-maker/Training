@@ -1,0 +1,78 @@
+{
+  "name": "Sporteisen AT",
+  "sequence": [
+    {
+      "id": "pull_front",
+      "name": "Pull-ups front grip",
+      "target": "8 herhalingen",
+      "limitSeconds": 30,
+      "type": "reps_min"
+    },
+    {
+      "id": "pull_back",
+      "name": "Pull-ups back grip",
+      "target": "8 herhalingen",
+      "limitSeconds": 30,
+      "type": "reps_min"
+    },
+    {
+      "id": "hip_hops",
+      "name": "Hip-hops",
+      "target": "40 herhalingen",
+      "limitSeconds": 60,
+      "type": "reps_min"
+    },
+    {
+      "id": "pushups_hr",
+      "name": "Push-ups (hand release)",
+      "target": "30 herhalingen",
+      "limitSeconds": 60,
+      "type": "reps_min"
+    },
+    {
+      "id": "situps",
+      "name": "Sit-ups",
+      "target": "60 herhalingen",
+      "limitSeconds": 120,
+      "type": "reps_min"
+    },
+    {
+      "id": "rope",
+      "name": "Touwklimmen",
+      "target": "2 × 5 meter",
+      "limitSeconds": 90,
+      "type": "distance"
+    },
+    {
+      "id": "wall_sit",
+      "name": "One-legged wall sit",
+      "target": "1 been 5 cm van de grond",
+      "limitSeconds": 53,
+      "type": "hold"
+    },
+    {
+      "id": "hip_bridge_uni",
+      "name": "Unilateral hip bridge",
+      "target": "60 seconden",
+      "limitSeconds": 60,
+      "type": "hold"
+    },
+    {
+      "id": "sprint_60m",
+      "name": "Sprint 60 meter",
+      "target": "≤ 8,6 seconden",
+      "limitSeconds": 9,
+      "type": "time_cap",
+      "passThresholdSeconds": 8.6
+    },
+    {
+      "id": "coopertest",
+      "name": "Coopertest",
+      "target": "≥ 2.900 meter in 12 min",
+      "limitSeconds": 720,
+      "type": "distance_min",
+      "passThresholdMeters": 2900
+    }
+  ],
+  "notes": "De 1500 meter wordt in een andere fase afgenomen."
+}
