@@ -1,0 +1,630 @@
+{
+  "fase1": {
+    "id": "fase1",
+    "name": "Fase 1",
+    "days": [
+      {
+        "id": "d1",
+        "title": "Day 1 – Bovenlichaam Kracht",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Pull-ups (met elastiek of horizontaal roeien) – 3×8-10 herhalingen, langzaam opbouwen naar 3×12-15.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Push-ups (evt. knieën) – 3×10-12 herhalingen, opbouwen naar 3×15.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Schouderdrukken met lichte dumbbells/elastiek – 3×10-12 herhalingen.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Roeien aan kabel/elastiek – 3×12-15 herhalingen.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "5. Plank – 3×20-30 sec, opbouwen naar 3×45 sec.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d2",
+        "title": "Day 2 – Conditie Interval + Duur",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Warming-up: 5 min rustig joggen of stevig wandelen.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Interval: start met 3×400 m rustig hardlopen (Zone 3–4, 70–85% HRmax) met 2 min wandelen tussen herhalingen.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "Elke 1-2 weken één extra herhaling toevoegen tot je 5×400 m haalt.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "3. Duurloop: 10 min rustig joggen (Zone 2). Opbouwen naar 20 min tegen eind maand 4.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "4. Cooling-down: 5 min rustig wandelen + rekken.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d3",
+        "title": "Day 3 – Onderlichaam + Core",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Air squats – 3×12 herhalingen, opbouwen naar 3×20.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Lunges (afwisselend links/rechts) – 3×8 per been, opbouwen naar 3×12.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Hip bridge – 3×12-15 herhalingen, knijp bovenin 2 sec.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Wall sit – 3×20-30 sec, opbouwen naar 3×45 sec.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "5. Plank varianten – 3×20-30 sec, opbouwen naar 3×45 sec.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d4",
+        "title": "Day 4 – Conditie/Interval Kort",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Warming-up: 5 min rustig joggen of wandelen.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Korte intervals: 6×20 sec versnellen op vlakke ondergrond + 40 sec wandelen.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "Elke 1-2 weken opbouwen naar 8–10×30 sec versnellen + 30 sec wandelen.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "3. Cooling-down: 5 min wandelen.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d5",
+        "title": "Day 5 – (Optioneel) – Full Body Techniek",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Touwklimmen (evt. voeten gebruiken) – 3–4 pogingen met focus op techniek.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Lichte sprongen (jump squats, box step-ups) – 3×8-10 herhalingen.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Circuittraining: combineer push-ups, squats en core-oefeningen, 2–3 rondes.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "Let op: alleen toevoegen vanaf maand 3 als je herstel goed gaat.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "Progressie per Maand",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "Maand 1: Lage intensiteit, techniek aanleren, gewenning.",
+            "type": "check"
+          },
+          {
+            "id": "i7",
+            "label": "Maand 2: Volume +10–15%, intervals iets langer of sneller.",
+            "type": "check"
+          },
+          {
+            "id": "i8",
+            "label": "Maand 3: 4–5 trainingen per week, kracht zwaarder, intervals langer.",
+            "type": "check"
+          },
+          {
+            "id": "i9",
+            "label": "Maand 4: Originele Fase 1 volumes halen (5×400 m, 20 min duurloop, 30/30 intervals).",
+            "type": "check"
+          },
+          {
+            "id": "i10",
+            "label": "Resultaat",
+            "type": "check"
+          },
+          {
+            "id": "i11",
+            "label": "Aan het einde van maand 4 behaal je het volledige volume en de intensiteit van de originele Fase 1, maar met een veilige opbouw waardoor je zonder overbelasting klaar bent voor Fase 2.",
+            "type": "check"
+          }
+        ]
+      }
+    ]
+  },
+  "fase2": {
+    "id": "fase2",
+    "name": "Fase 2",
+    "days": [
+      {
+        "id": "d1",
+        "title": "Day 1 – Bovenlichaam + touwklim",
+        "items": []
+      },
+      {
+        "id": "d2",
+        "title": "Day 2 – Conditie (interval gericht op Coopertest)",
+        "items": []
+      },
+      {
+        "id": "d3",
+        "title": "Day 3 – Onderlichaam + core",
+        "items": []
+      },
+      {
+        "id": "d4",
+        "title": "Day 4 – Sprint + explosieve kracht",
+        "items": [
+          {
+            "id": "i1",
+            "label": "Optioneel Dag 5 – Testdag simulatie",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d1",
+        "title": "Day 1 – Bovenlichaam + Touwklim (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Pull-ups – 4 sets × max reps in 30 sec (rust: 90 sec). Elke 2 weken +1 set tot 6 sets.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Weighted pull-ups – Start met 2×5 licht gewicht, bouw op naar 4×5 met zwaarder gewicht.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Push-ups (explosief) – 3×12, bouw op naar 4×15.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Dips – 3×8–10, bouw op naar 4×8–12.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "5. Touwklim – 3–4 herhalingen van 3 m, bouw op naar 4–6 herhalingen van 3–4 m.",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "6. Plank walk-outs – 3×8, opbouwen naar 3×10.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d2",
+        "title": "Day 2 – Conditie (Coopertest-specifiek, versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Warming-up: 8 min rustig joggen.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Intervallen: Start met 4×800 m op 95% van je Coopertest-tempo. Om de 2 weken +1 herhaling tot max 8×800 m en tempo verhogen naar 100–105%.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Rust: 2 min wandelen/joggen tussen herhalingen.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Cooling-down: 10 min rustig wandelen of fietsen.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d3",
+        "title": "Day 3 – Onderlichaam + Core (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. Front squat – Start met 3×8 op licht gewicht, opbouwen naar 4×8 zwaar gewicht.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Walking lunges – 3×10 per been, opbouwen naar 3×15 per been.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Hip thrust (met gewicht) – 3×10, opbouwen naar 4×10 zwaar.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Box jumps – 4×5 sprongen, opbouwen naar 5×6 sprongen.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "5. Wall sit – 3× max tijd, streef naar 90 sec+.",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "6. Russian twists – 3×16 herhalingen, opbouwen naar 3×20.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d4",
+        "title": "Day 4 – Sprint + Explosieve kracht (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. 60 m sprint – Start met 6×, opbouwen naar 8×. Rust 2–3 min.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Plyo push-ups – 2×8, opbouwen naar 3×8.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Broad jumps – 3×6 sprongen, opbouwen naar 4×6.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Rope climbs for speed – 3×3 m, opbouwen naar 4×3 m.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "5. Farmer’s carry – 3×20 m, opbouwen naar 4×20 m zwaar gewicht.",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "Optioneel Dag 5 – Testdag simulatie",
+            "type": "check"
+          },
+          {
+            "id": "i7",
+            "label": "Week 3: 1 testdag uitvoeren. Daarna 1× per 2 weken.",
+            "type": "check"
+          },
+          {
+            "id": "i8",
+            "label": "Volg dezelfde volgorde als originele schema, met 3–4 min rust tussen onderdelen.",
+            "type": "check"
+          },
+          {
+            "id": "i9",
+            "label": "Progressie per Maand",
+            "type": "check"
+          },
+          {
+            "id": "i10",
+            "label": "Maand 5: Begin met lagere volumes en intensiteit (zie 'start' waarden).",
+            "type": "check"
+          },
+          {
+            "id": "i11",
+            "label": "Maand 6: Verhoog sets/herhalingen en tempo intervallen.",
+            "type": "check"
+          },
+          {
+            "id": "i12",
+            "label": "Maand 7: Volumes bijna gelijk aan originele Fase 2.",
+            "type": "check"
+          },
+          {
+            "id": "i13",
+            "label": "Maand 8: Volledig originele Fase 2 volumes en intensiteit behalen.",
+            "type": "check"
+          },
+          {
+            "id": "i14",
+            "label": "Aandachtspunten",
+            "type": "check"
+          },
+          {
+            "id": "i15",
+            "label": "• Focus op techniek bij touwklim, sprints en explosieve oefeningen.",
+            "type": "check"
+          },
+          {
+            "id": "i16",
+            "label": "• Zorg voor minimaal 1 rustdag tussen zware sessies.",
+            "type": "check"
+          },
+          {
+            "id": "i17",
+            "label": "• Monitor hartslagzones en herstel, forceer geen progressie als herstel achterblijft.",
+            "type": "check"
+          },
+          {
+            "id": "i18",
+            "label": "• Blijf mobiliteit en stretching doen om blessures te voorkomen.",
+            "type": "check"
+          }
+        ]
+      }
+    ]
+  },
+  "fase3": {
+    "id": "fase3",
+    "name": "Fase 3",
+    "days": [
+      {
+        "id": "d1",
+        "title": "Day 1 – Testblokken",
+        "items": []
+      },
+      {
+        "id": "d2",
+        "title": "Day 2 – Interval intensief",
+        "items": []
+      },
+      {
+        "id": "d3",
+        "title": "Day 3 – Sprintkracht + explosief",
+        "items": []
+      },
+      {
+        "id": "d4",
+        "title": "Day 4 – Lange duurloop",
+        "items": []
+      },
+      {
+        "id": "d5",
+        "title": "Day 5 – Volledige test simulatie",
+        "items": []
+      },
+      {
+        "id": "d1",
+        "title": "Day 1 – Testblokken (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "Voer onderdelen uit met 90–120 sec rust, start met minder sets en bouw op.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "1. Pull-ups (timed) – 1–2 sets, opbouwen naar 2 sets.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "2. Push-ups (timed) – 1–2 sets, opbouwen naar 2 sets.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "3. Sit-ups (timed) – 1–2 sets, opbouwen naar 2 sets.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "4. Touwklim – Start met 2×3 m, opbouwen naar 3×3–4 m.",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "5. Sprint 60 m – Start met 2–3 herhalingen, opbouwen naar 4 herhalingen.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d2",
+        "title": "Day 2 – Interval intensief (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. 400 m intervallen – Start met 5×400 m op 100% Coopertest-tempo, opbouwen naar 8×400 m op 110%.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "Rust: 90 sec, eventueel verlengen naar 2 min in eerste weken.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "2. 200 m sprint – Start met 2×200 m, opbouwen naar 4×200 m. Volledig herstel (2–3 min).",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "3. Cooling-down: 10 min rustig lopen/joggen.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d3",
+        "title": "Day 3 – Sprintkracht + Explosief (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "1. 60 m sprint – Start met 6×, opbouwen naar 8×. Rust 2–3 min.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "2. Broad jumps – Start met 3×6 sprongen, opbouwen naar 4×8.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "3. Box jumps – Start met 4×5 sprongen, opbouwen naar 5×5 hoge sprongen.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "4. Plyo push-ups – Start met 2×8, opbouwen naar 4×8.",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "5. Farmer’s carry – Start met 3×20 m, opbouwen naar 5×20 m zwaar gewicht.",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "6. Rope climb for speed – Start met 3×3 m, opbouwen naar 5×3 m.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d4",
+        "title": "Day 4 – Lange duurloop (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "Start met 5 km op 65–75% HRmax, bouw op naar 8 km.",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "Voeg in de laatste 4 weken van fase 3 af en toe een snellere laatste kilometer toe.",
+            "type": "check"
+          }
+        ]
+      },
+      {
+        "id": "d5",
+        "title": "Day 5 – Volledige test simulatie (versoepeld)",
+        "items": [
+          {
+            "id": "i1",
+            "label": "Eerste 2 weken: halve test uitvoeren (minder sets/herhalingen).",
+            "type": "check"
+          },
+          {
+            "id": "i2",
+            "label": "Daarna: 1× per 2 weken volledige test simulatie zoals in origineel schema.",
+            "type": "check"
+          },
+          {
+            "id": "i3",
+            "label": "Laatste maand: 1× per week volledige test simulatie.",
+            "type": "check"
+          },
+          {
+            "id": "i4",
+            "label": "Progressie per Maand",
+            "type": "check"
+          },
+          {
+            "id": "i5",
+            "label": "Maand 9: Start met 70% van het originele volume/intensiteit.",
+            "type": "check"
+          },
+          {
+            "id": "i6",
+            "label": "Maand 10: Verhoog naar ±85% volume/intensiteit.",
+            "type": "check"
+          },
+          {
+            "id": "i7",
+            "label": "Maand 11: Werk naar 100% volume/intensiteit.",
+            "type": "check"
+          },
+          {
+            "id": "i8",
+            "label": "Maand 12: Volledige testvolumes, focus op snelheid en perfecte uitvoering.",
+            "type": "check"
+          },
+          {
+            "id": "i9",
+            "label": "Aandachtspunten",
+            "type": "check"
+          },
+          {
+            "id": "i10",
+            "label": "• Laatste 2 weken: taperen (minder volume, intensiteit behouden).",
+            "type": "check"
+          },
+          {
+            "id": "i11",
+            "label": "• Train soms onder zwaardere omstandigheden voor mentale weerbaarheid.",
+            "type": "check"
+          },
+          {
+            "id": "i12",
+            "label": "• Blijf blessurepreventie en mobiliteitsoefeningen doen.",
+            "type": "check"
+          },
+          {
+            "id": "i13",
+            "label": "• Monitor prestaties en herstel, forceer geen progressie als vermoeidheid oploopt.",
+            "type": "check"
+          }
+        ]
+      }
+    ]
+  }
+}
