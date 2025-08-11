@@ -127,4 +127,25 @@ function Tab({
 function HomeIcon({ active }: { active: boolean }) {
   return (
     <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
-      <path d="M3 
+      <path d="M3 10.5 12 3l9 7.5" />
+      <path d="M5 10v10h14V10" />
+      <path d="M9 20v-6h6v6" className={active ? '' : 'opacity-80'} />
+    </svg>
+  )
+}
+function LayersIcon() {
+  return (
+    <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+      <path d="M12 3 3 8l9 5 9-5-9-5Z" />
+      <path d="M3 14l9 5 9-5" />
+    </svg>
+  )
+}
+function CogIcon() {
+  return (
+    <svg viewBox="0 0 24 24" className="w-5 h-5" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true">
+      <path d="M12 15a3 3 0 1 0 0-6 3 3 0 0 0 0 6Z" />
+      <path d="M20.4 12a8.4 8.4 0 0 0-.1-1l2-1.5-2-3.5-2.4.8a8.6 8.6 0 0 0-1.7-1l-.3-2.5h-4l-.3 2.5a8.6 8.6 0 0 0-1.7 1L5.7 6.1 3.7 9.6l2 1.4a8.4 8.4 0 0 0 0 2l-2 1.4 2 3.5 2.4-.8a8.6 8.6 0 0 0 1.7 1l.3 2.5h4l.3-2.5a8.6 8.6 0 0 0 1.7-1l2.4.8 2-3.5-2-1.5c.1-.3.1-.7.1-1Z" />
+    </svg>
+  )
+}
