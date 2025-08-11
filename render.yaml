@@ -1,0 +1,10 @@
+
+services:
+  - type: web
+    name: at-trainer-pwa
+    env: docker
+    plan: free
+    autoDeploy: true
+    envVars:
+      - key: VITE_BASE_PATH
+        value: /
